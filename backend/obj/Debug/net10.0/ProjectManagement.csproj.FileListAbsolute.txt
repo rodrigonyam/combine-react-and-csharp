@@ -214,3 +214,4 @@ C:\Users\rodog\OneDrive\Desktop\workspaceexperiment\combine react and csharp\bac
 C:\Users\rodog\OneDrive\Desktop\workspaceexperiment\combine react and csharp\backend\obj\Debug\net10.0\ProjectManagement.pdb
 C:\Users\rodog\OneDrive\Desktop\workspaceexperiment\combine react and csharp\backend\obj\Debug\net10.0\ProjectManagement.genruntimeconfig.cache
 C:\Users\rodog\OneDrive\Desktop\workspaceexperiment\combine react and csharp\backend\obj\Debug\net10.0\ref\ProjectManagement.dll
+C:\Users\rodog\OneDrive\Desktop\workspaceexperiment\combine react and csharp\backend\obj\Debug\net10.0\ProjectManagement.sourcelink.json
